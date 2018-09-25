@@ -7,6 +7,12 @@
  */
 
 // Your code :
+const arr = [4, '2'];
+for(let i =0; i<arr.length;i++){
+	console.log(arr[0]);
+	console.log(arr[1]);
+}
+console.log(arr);
 
 //* Begin of tests
 const assert = require('assert')
