@@ -1,10 +1,10 @@
 ## PRECISIONS
 
-REPOSITORY ANGULAR (FRAMEWORK)
+REPOSITORY javaScript (JavaScript avec Travis)
 
 REPOSITORY CREER POUR DES VALIDATIONS DE QUETES, PERMETTANT D'EVALUER NOTRE COMPRÉHENSION SUR LES DIFFERENTES CONNAISSANCES ACQUISES AU COUR DE LA FORMATION.
 
-ICI DES QUETES SUR ANGULAR.
+ICI DES QUETES SUR javaSript et Travis.
 
 [![Build Status](https://travis-ci.org/Zeddyrse/js-training.svg?branch=master)](https://travis-ci.org/Zeddyrse/js-training)
 ## Setup
